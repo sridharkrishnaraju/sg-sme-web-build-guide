@@ -1,0 +1,7 @@
+site_name: Singapore SME Web Build Guide
+site_description: An open guide to building fast, accessible websites for small businesses.
+theme:
+  name: readthedocs
+nav:
+  - Home: index.md
+  - Performance: performance.md
